@@ -8,7 +8,7 @@ body{
     background-image: url(./images/donation7.jpg);
     background-repeat: no-repeat;
     text-align: center;
-    color:rgb(225, 230, 230);
+    color:white;
     padding: 165px;
 }
 .header-section h1{
@@ -81,6 +81,7 @@ hr{
 }
 .donate-plan p{
     font-weight: 100;
+    font-size: 25px;
     margin-bottom: 20px;
 }
 .donate-plan-container{
@@ -116,7 +117,7 @@ hr{
     font-weight: 700;
 }
 .activity-description{
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 300;
     text-align: center;
 }
@@ -142,7 +143,7 @@ hr{
     margin-top: 60px;
 }
 .update-container p{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 400;
     padding: 50px;
 }
@@ -170,11 +171,13 @@ footer{
     color: red;
 }
 footer h1{
+    font-size: 40px;
+    font-weight: 700;
     color: red;
     padding-top: 20px;
 }
 footer p{
-    padding-bottom: 20px;
+    padding-bottom: 25px;
     color: white;
 }
 
