@@ -27,6 +27,9 @@ body{
     border-radius: 20px;
 }
 /* Donate Section */
+.donate-container{
+    margin: 30px;
+}
 .donate-title{
     text-align: center;
     font-size: 30px;
@@ -40,6 +43,7 @@ body{
     margin-top: 30px;
     display: flex;
     justify-content: center;
+    padding: 30px;
 }
 .amount{
     text-align: center;
@@ -66,6 +70,9 @@ hr{
     margin-bottom: 120px;
 }
 /* Our Donate Plan */
+.our-donate-plan{
+    margin: 30px;
+}
 .donate-plan{
     text-align: center;
 }
@@ -77,7 +84,7 @@ hr{
     margin-bottom: 20px;
 }
 .donate-plan-container{
-    padding: 10px;
+    padding: 60px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -127,6 +134,7 @@ hr{
 .update-container{
     text-align: center;
     padding: 30px;
+    margin: 30px;
 }
 .update-container h1{
     font-size: 30px;
@@ -136,7 +144,7 @@ hr{
 .update-container p{
     font-size: 20px;
     font-weight: 400;
-    padding-bottom: 40px;
+    padding: 50px;
 }
 #email-container{
     width: 450px;
