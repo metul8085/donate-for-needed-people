@@ -102,6 +102,28 @@ hr{
 #education{
     background-color: rgb(255, 0, 55);
 }
+/* Activity Section */
+.activity-container{
+    text-align: center;
+}
+.activity-container h1{
+    font-size: 100px;
+    font-weight: 700;
+}
+.activity-container h1{
+    font-size: 20px;
+    font-weight: 400;
+}
+.activity-pic{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.activity-1{
+    width: 400px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+}
 /* Update Container */
 .update-container{
     text-align: center;
@@ -149,24 +171,3 @@ footer p{
     color: white;
 }
 
-.activity-container{
-    text-align: center;
-}
-.activity-container h1{
-    font-size: 100px;
-    font-weight: 700;
-}
-.activity-container h1{
-    font-size: 20px;
-    font-weight: 400;
-}
-.activity-pic{
-    display: flex;
-    justify-content: space-evenly;
-    margin: 30px;
-}
-.activity-1{
-    width: 400px;
-    box-shadow: 5px 5px 10px gray;
-    border-radius: 20px;
-}
