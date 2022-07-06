@@ -9,14 +9,14 @@ body{
     background-repeat: no-repeat;
     text-align: center;
     color:rgb(225, 230, 230);
-    padding: 170px;
+    padding: 165px;
 }
 .header-section h1{
     font-size: 50px;
     font-weight: 700;
 }
 .header-section p{
-    font-size: 15px;
+    font-size: 20px;
     margin-bottom: 50px;
 }
 .donate-link{
@@ -147,4 +147,26 @@ footer h1{
 footer p{
     padding-bottom: 20px;
     color: white;
+}
+
+.activity-container{
+    text-align: center;
+}
+.activity-container h1{
+    font-size: 100px;
+    font-weight: 700;
+}
+.activity-container h1{
+    font-size: 20px;
+    font-weight: 400;
+}
+.activity-pic{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.activity-1{
+    width: 400px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
 }
