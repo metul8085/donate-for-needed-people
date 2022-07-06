@@ -1,0 +1,150 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+/* Header Section s*/
+.header-section{
+    background-image: url(./images/donation7.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color:rgb(225, 230, 230);
+    padding: 100px;
+}
+.header-section h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.header-section p{
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.donate-link{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+/* Donate Section */
+.donate-title{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+}
+.donate-description{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.amount-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.amount{
+    text-align: center;
+    width: 100px;
+    height: 80px;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+#amount-200tk{
+    border: 2px solid rgb(121, 31, 15);
+    color: rgb(121, 31, 15);
+    background-color: rgb(189, 142, 142);
+}
+#other-amount{
+    text-align: center;
+    margin-top: 50px;
+}
+hr{
+    width: 800px;
+}
+.donate-container{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+/* Our Donate Plan */
+.donate-plan{
+    text-align: center;
+}
+.donate-plan h1{
+    font-size: 30px;
+}
+.donate-plan p{
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.donate-plan-container{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.donate-plan-1{
+    width: 280px;
+    height: 250px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    border-radius: 10px 10px 20px gray;
+    margin: 5px;
+}
+.icon{
+    width: 50px;
+}
+#food{
+    background-color: rgb(115, 255, 0);
+}
+#shelter{
+    background-color: rgb(98, 0, 255);
+}
+#education{
+    background-color: rgb(255, 0, 55);
+}
+/* Update Container */
+.update-container{
+    text-align: center;
+    padding: 30px;
+}
+.update-container h1{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+.update-container p{
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+#email-container{
+    width: 450px;
+    height: 125px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.emeil{
+    background-color: rgb(53, 48, 66);
+}
+.subscribe-btn{
+    width: 90px;
+    background-color: red;
+}
+form{
+    padding: 50px;
+}
+/* Footer Section */
+footer{
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+footer h1{
+    color: red;
+    padding-top: 20px;
+}
+footer p{
+    padding-bottom: 20px;
+    color: white;
+}
