@@ -113,14 +113,13 @@ hr{
     font-weight: 300;
     text-align: center;
 }
-
 .activity-container{
     display: flex;
     justify-content: space-evenly;
     margin: 30px;
 }
 .activity-pic{
-    width: 400px;
+    width: 450px;
     box-shadow: 5px 5px 10px gray;
     border-radius: 20px;
 }
