@@ -103,23 +103,23 @@ hr{
     background-color: rgb(255, 0, 55);
 }
 /* Activity Section */
-.activity-container{
+.activity-title{
     text-align: center;
-}
-.activity-container h1{
-    font-size: 100px;
+    font-size: 40px;
     font-weight: 700;
 }
-.activity-container h1{
-    font-size: 20px;
-    font-weight: 400;
+.activity-description{
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
 }
-.activity-pic{
+
+.activity-container{
     display: flex;
     justify-content: space-evenly;
     margin: 30px;
 }
-.activity-1{
+.activity-pic{
     width: 400px;
     box-shadow: 5px 5px 10px gray;
     border-radius: 20px;
